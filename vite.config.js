@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/your-repo-name/', // Important: this must match your GitHub repo name
+  base: '/twelfth-fret-music/', // Important: this must match your GitHub repo name
 });
