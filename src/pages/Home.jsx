@@ -1,5 +1,5 @@
 import MailchimpForm from '../components/MailchimpForm';
-import GuitarNeckAndPick from '../img/Guitar-Neck-And-Pick'
+import GuitarNeckAndPick from '../img/Guitar-Neck-And-Pick';
 
 export default function Home() {
   return (
