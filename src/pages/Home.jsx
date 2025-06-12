@@ -1,4 +1,5 @@
 import MailchimpForm from '../components/MailchimpForm';
+import GuitarNeckAndPick from './img/Guitar-Neck-And-Pick'
 
 export default function Home() {
   return (
@@ -7,7 +8,7 @@ export default function Home() {
         <div className="outer-border">
           <div className="inner-border">
             <img
-              src="/img/Guitar-Neck-And-Pick"
+              src={GuitarNeckAndPick}
               alt="Guitar Neck and Pick"
               className="hero-img"
             />
